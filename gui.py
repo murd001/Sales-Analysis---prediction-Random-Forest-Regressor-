@@ -1,5 +1,3 @@
-import sys
-sys.path.append('C:/Users/mdmur/OneDrive/Pictures/MohasProject/venv/Lib/site-packages')
 from pathlib import Path
 from tkinter import Tk, Canvas, Entry, Text, Button, PhotoImage, filedialog, ttk
 import pandas as pd
