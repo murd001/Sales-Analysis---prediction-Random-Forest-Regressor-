@@ -15,3 +15,7 @@ step 4: run the GUI
     python3 gui.py
 
     
+#Screen Shots
+<img src = "sales-predictor-ScreenShots/scSht1.png">
+<img src = "sales-predictor-ScreenShots/scSht2.png">
+<img src = "sales-predictor-ScreenShots/scSht3.png">
